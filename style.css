@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    background-color: #e8ff9b;
+}
+h1{
+    font-size: 30px;
+}
+div{
+    margin-top: 15px;
+}
+.image-section{
+    display: flex;
+    justify-content: center;
+}
+.image{
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: white;
+}
+img{
+    height: 300px;
+    width: 415px;
+}
+p{
+    font-size: 20px;
+}
